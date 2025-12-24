@@ -128,10 +128,6 @@ A production-ready backend service providing secure authentication and authoriza
 
 **Technologies:** .NET 7.0, ASP.NET Core Web API, Entity Framework Core, JWT, Microsoft Identity, AutoMapper, FluentValidation, Swagger/OpenAPI
 
-**Features:**
-- Consistent API responses with HTTP status codes (200, 401, 404, 500)
-- Loosely coupled architecture with Repository Pattern and Dependency Injection
-- Multi-client integration with MiniApp.API1/2/3 sample applications
 
 🔗 [GitHub](https://github.com/MrBekoX/AuthTokenServer)
 
@@ -143,27 +139,16 @@ A restaurant management system featuring real-time order tracking and live updat
 
 **Technologies:** .NET Core, ASP.NET Core Web API, Entity Framework Core, SignalR, AutoMapper, FluentValidation, JavaScript, ASP.NET MVC
 
-**Features:**
-- Reservation, menu, order, and table management endpoints
-- Real-time WebSocket communication
-- Standardized API responses in JSON format
 
 🔗 [GitHub](https://github.com/MrBekoX/SignalRProject)
 
 ---
 
-### 4. Onion Architecture Rent A Car
+### 4. BlogApp
 
-A car rental system built with Onion Architecture where dependencies flow from inside out, ensuring testability and extensibility. Features optimized .NET API endpoints with CQRS Pattern implementing Command-Query separation.
+A modern blog application built with Django framework. Features user authentication, article management, commenting system, and responsive design. Implements Django MVT architecture with clean code principles.
 
-**Technologies:** .NET Core, ASP.NET Core Web API, Entity Framework Core, MediatR, AutoMapper, FluentValidation, CQRS
-
-**Features:**
-- Resource-based URL structure following RESTful principles
-- Mediator pattern implementation with MediatR
-- High-quality code structure with SOLID principles
-
-🔗 [GitHub](https://github.com/MrBekoX/OnionArchitectureRentACarBook)
+**Technologies**: Django 4.x, SQLite, Bootstrap 5, JavaScript, CKEditor
 
 ---
 
@@ -171,7 +156,7 @@ A car rental system built with Onion Architecture where dependencies flow from i
 
 A modern blog application backend service. Developed in a layered structure following Clean Architecture principles, featuring JWT-based authentication and role-based access control.
 
-**Technologies:** ASP.NET Core, Entity Framework Core, JWT, PostgreSQL, Swagger, Clean Architecture
+**Technologies:** ASP.NET Core WEB API, Entity Framework Core, JWT, PostgreSQL, Swagger, Clean Architecture
 
 🔗 [GitHub](https://github.com/MrBekoX/MrBekoXBlogAppServer)
 
@@ -202,10 +187,6 @@ Weather applications developed using Model Context Protocol (MCP). Available in 
 A deep learning project classifying 10 different urban sounds using the UrbanSound8K dataset. Includes comparative performance analysis of CNN and LSTM models.
 
 **Technologies:** Python, Jupyter Notebook, Librosa, NumPy, Pandas, Matplotlib, Scikit-learn, CNN, LSTM
-
-**Features:**
-- MFCC feature extraction
-- Optimization with Accuracy, Precision, Recall, and F1-score metrics
 
 🔗 [GitHub](https://github.com/MrBekoX/DeepLearningAudioProcessing)
 
@@ -245,9 +226,9 @@ I design robust and scalable backend systems. I provide enterprise-level solutio
 |---------|-------------|------------|
 | [LearnX.Microservices](https://github.com/MrBekoX/LearnX.Microservices) | Learning platform with microservices | .NET, Docker, RabbitMQ |
 | [AuthTokenServer](https://github.com/MrBekoX/AuthTokenServer) | JWT Authentication Server | .NET 7.0, Identity, JWT |
-| [MrBekoXBlogAppServer](https://github.com/MrBekoX/MrBekoXBlogAppServer) | Blog API - Clean Architecture | ASP.NET Core, PostgreSQL |
-| [OnionArchitectureRentACarBook](https://github.com/MrBekoX/OnionArchitectureRentACarBook) | Car Rental - Onion Architecture | .NET, CQRS, MediatR |
-| [CourseApp](https://github.com/MrBekoX/CourseApp) | Course Management API | ASP.NET Core, EF Core |
+| [MrBekoXBlogAppServer](https://github.com/MrBekoX/MrBekoXBlogAppServer) | Blog API - Onion Architecture | ASP.NET Core, MSSQL |
+| [BlogApp](https://github.com/MrBekoX/BlogApp) | Blog Application - Django | Python, Django, SQLite |
+| [CourseApp](https://github.com/MrBekoX/CourseApp) | Course Management App | .NET Core, EF Core, AutoMapper, FluentValidation |
 | [ElectronicDeviceManager](https://github.com/MrBekoX/ElectronicDeviceManager) | E-Commerce Simulation | .NET, N-Tier, Unit of Work |
 
 ### 🤖 AI & Agent Development
