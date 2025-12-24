@@ -6,9 +6,13 @@
 
 </div>
 
-## About Me
+### 👨‍💻 About Me
 
-I have 4+ years of experience in .NET and C# development. I build scalable and secure RESTful APIs using ASP.NET Core Web API and Entity Framework Core. I design enterprise-level projects using Clean Architecture, Onion Architecture, and CQRS patterns with .NET 7.0/8.0/9.0. I develop real-time applications with SignalR and full-stack solutions with Angular. I build AI agent projects using Model Context Protocol (MCP) and Google AI SDK. I prioritize writing clean, maintainable, and testable code while adhering to SOLID principles.
+I’m a backend-focused software developer with 4+ years of experience in .NET and C#, building scalable and secure systems.
+My work centers on **Clean Architecture**, **Onion Architecture**, and **CQRS**, using **ASP.NET Core Web API** and **Entity Framework Core** across **.NET 7/8/9** projects.
+I’ve developed **real-time systems with SignalR**, **full-stack applications with Angular**, and **AI agent–driven solutions** using **MCP** and the **Google AI SDK**.
+I care deeply about **code quality, maintainability, and long-term scalability**, applying **SOLID principles** and clean design practices in every project.
+
 
 ---
 
