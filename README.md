@@ -156,7 +156,7 @@ A modern blog application built with Django framework. Features user authenticat
 
 A modern blog application backend service. Developed in a layered structure following Clean Architecture principles, featuring JWT-based authentication and role-based access control.
 
-**Technologies:** ASP.NET Core WEB API, Entity Framework Core, JWT, PostgreSQL, Swagger, Clean Architecture
+**Technologies:** .NET Core, ASP.NET Core WEB API, Entity Framework Core, JWT, PostgreSQL, Swagger, Onion Architecture, AutoMapper, FluentValidation
 
 🔗 [GitHub](https://github.com/MrBekoX/MrBekoXBlogAppServer)
 
