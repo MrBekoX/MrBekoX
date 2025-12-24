@@ -224,12 +224,11 @@ I design robust and scalable backend systems. I provide enterprise-level solutio
 
 | Project | Description | Technology |
 |---------|-------------|------------|
-| [LearnX.Microservices](https://github.com/MrBekoX/LearnX.Microservices) | Learning platform with microservices | .NET, Docker, RabbitMQ |
+| [LearnX.Microservices](https://github.com/MrBekoX/LearnX.Microservices) | Learning platform with microservices | .NET, Docker, RabbitMQ, AutoMapper, FluentValidation |
 | [AuthTokenServer](https://github.com/MrBekoX/AuthTokenServer) | JWT Authentication Server | .NET 7.0, Identity, JWT |
-| [MrBekoXBlogAppServer](https://github.com/MrBekoX/MrBekoXBlogAppServer) | Blog API - Onion Architecture | ASP.NET Core, MSSQL |
+| [MrBekoXBlogAppServer](https://github.com/MrBekoX/MrBekoXBlogAppServer) | Blog API - Onion Architecture | ASP.NET Core WEB API, MSSQL, AutoMapper, FluentValidation, EF Core |
 | [BlogApp](https://github.com/MrBekoX/BlogApp) | Blog Application - Django | Python, Django, SQLite |
 | [CourseApp](https://github.com/MrBekoX/CourseApp) | Course Management App | .NET Core, EF Core, AutoMapper, FluentValidation |
-| [ElectronicDeviceManager](https://github.com/MrBekoX/ElectronicDeviceManager) | E-Commerce Simulation | .NET, N-Tier, Unit of Work |
 
 ### 🤖 AI & Agent Development
 
