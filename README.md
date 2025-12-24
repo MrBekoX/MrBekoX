@@ -1,4 +1,4 @@
-# Merhaba, Ben MrBeko(Berkay)! 👋
+# Hi, I'm MrBeko(Berkay)! 👋
 
 <div align="center">
 
@@ -6,15 +6,15 @@
 
 </div>
 
-## Hakkımda
+## About Me
 
-4+ yıllık .NET ve C# geliştirme deneyimine sahibim. ASP.NET Core Web API, Entity Framework Core kullanarak ölçeklenebilir ve güvenli RESTful API'ler geliştiriyorum. .NET 7.0/8.0/9.0 ile Clean Architecture, Onion Architecture ve CQRS pattern'leri kullanarak kurumsal düzeyde projeler tasarlıyorum. SignalR ile gerçek zamanlı uygulamalar, Angular ile full-stack çözümler üretiyorum. Model Context Protocol (MCP) ve Google AI SDK kullanarak AI agent projeleri geliştiriyorum. SOLID prensiplerine bağlı kalarak temiz, sürdürülebilir ve test edilebilir kod yazmaya önem veriyorum.
+I have 4+ years of experience in .NET and C# development. I build scalable and secure RESTful APIs using ASP.NET Core Web API and Entity Framework Core. I design enterprise-level projects using Clean Architecture, Onion Architecture, and CQRS patterns with .NET 7.0/8.0/9.0. I develop real-time applications with SignalR and full-stack solutions with Angular. I build AI agent projects using Model Context Protocol (MCP) and Google AI SDK. I prioritize writing clean, maintainable, and testable code while adhering to SOLID principles.
 
 ---
 
-## Teknolojiler ve Beceriler
+## Technologies & Skills
 
-### Programlama Dilleri
+### Programming Languages
 
 <div align="center">
 
@@ -27,7 +27,7 @@
 
 </div>
 
-### Backend Teknolojileri (.NET)
+### Backend Technologies (.NET)
 
 <div align="center">
 
@@ -39,7 +39,7 @@
 
 </div>
 
-### Diğer Backend Teknolojileri
+### Other Backend Technologies
 
 <div align="center">
 
@@ -49,7 +49,7 @@
 
 </div>
 
-### Frontend Teknolojileri
+### Frontend Technologies
 
 <div align="center">
 
@@ -60,7 +60,7 @@
 
 </div>
 
-### Veritabanı Teknolojileri
+### Database Technologies
 
 <div align="center">
 
@@ -70,7 +70,7 @@
 
 </div>
 
-### Mimari ve Tasarım Desenleri
+### Architecture & Design Patterns
 
 <div align="center">
 
@@ -82,7 +82,7 @@
 
 </div>
 
-### DevOps ve Araçlar
+### DevOps & Tools
 
 <div align="center">
 
@@ -110,225 +110,223 @@
 
 ---
 
-## 🌟 Öne Çıkan Projelerim
+## 🌟 Featured Projects
 
 ### 1. LearnX.Microservices
 
-Modern mikroservis mimarisi kullanılarak geliştirilmiş kapsamlı bir eğitim platformu. ASP.NET Core ile yazılmış bu proje, mikroservis mimarisinin temel kavramlarını pratik uygulamalarla gösteriyor. Docker konteynerizasyonu desteği sunan proje, RESTful API'ler, message queue entegrasyonu ve distributed tracing gibi modern yazılım geliştirme pratiklerini içeriyor.
+A comprehensive learning platform built with modern microservices architecture. Written in ASP.NET Core, this project demonstrates core microservices concepts through practical implementations. Features Docker containerization support, RESTful APIs, message queue integration, and distributed tracing.
 
-**Teknolojiler:** ASP.NET Core, Microservices, Docker, RabbitMQ, API Gateway, MongoDB, Redis
+**Technologies:** ASP.NET Core, Microservices, Docker, RabbitMQ, API Gateway, MongoDB, Redis
 
-🔗 [GitHub](https://github.com/beko10/LearnX.Microservices)
+🔗 [GitHub](https://github.com/MrBekoX/LearnX.Microservices)
 
 ---
 
 ### 2. Auth Token Server
 
-Güvenli kimlik doğrulama ve yetkilendirme mekanizmaları sunan production-ready bir backend servisi. N-Tier Architecture ile kurumsal ölçekli RESTful API yapısı, JWT tabanlı token mekanizması, refresh token rotation ve standardize edilmiş hata yönetimi içermektedir.
+A production-ready backend service providing secure authentication and authorization mechanisms. Features enterprise-scale RESTful API architecture with N-Tier Architecture, JWT-based token mechanism, refresh token rotation, and standardized error handling.
 
-**Teknolojiler:** .NET 7.0, ASP.NET Core Web API, Entity Framework Core, JWT, Microsoft Identity, AutoMapper, FluentValidation, Swagger/OpenAPI
+**Technologies:** .NET 7.0, ASP.NET Core Web API, Entity Framework Core, JWT, Microsoft Identity, AutoMapper, FluentValidation, Swagger/OpenAPI
 
-**Özellikler:**
-- HTTP durum kodları (200, 401, 404, 500) ile tutarlı API response'ları
-- Repository Pattern ve Dependency Injection ile gevşek bağlı mimari
-- MiniApp.API1/2/3 örnek uygulamaları ile çoklu client entegrasyonu
+**Features:**
+- Consistent API responses with HTTP status codes (200, 401, 404, 500)
+- Loosely coupled architecture with Repository Pattern and Dependency Injection
+- Multi-client integration with MiniApp.API1/2/3 sample applications
 
-🔗 [GitHub](https://github.com/beko10/AuthTokenServer)
+🔗 [GitHub](https://github.com/MrBekoX/AuthTokenServer)
 
 ---
 
-### 3. SignalR Restoran Yönetim Sistemi
+### 3. SignalR Restaurant Management System
 
-Gerçek zamanlı sipariş takibi ve canlı güncelleme özellikleri içeren restoran yönetim sistemi. SignalR WebSocket teknolojisi ile anlık sipariş durumu güncellemeleri sağlayan, N-Tier Architecture ile altı katmanlı modüler yapıda geliştirilmiş kapsamlı bir proje.
+A restaurant management system featuring real-time order tracking and live updates. Built with SignalR WebSocket technology for instant order status updates, developed in a six-layer modular structure using N-Tier Architecture.
 
-**Teknolojiler:** .NET Core, ASP.NET Core Web API, Entity Framework Core, SignalR, AutoMapper, FluentValidation, JavaScript, ASP.NET MVC
+**Technologies:** .NET Core, ASP.NET Core Web API, Entity Framework Core, SignalR, AutoMapper, FluentValidation, JavaScript, ASP.NET MVC
 
-**Özellikler:**
-- Rezervasyon, menü, sipariş, masa yönetimi endpoint'leri
-- Real-time WebSocket iletişimi
-- JSON formatında standardize edilmiş API response'ları
+**Features:**
+- Reservation, menu, order, and table management endpoints
+- Real-time WebSocket communication
+- Standardized API responses in JSON format
 
-🔗 [GitHub](https://github.com/beko10)
+🔗 [GitHub](https://github.com/MrBekoX/SignalRProject)
 
 ---
 
 ### 4. Onion Architecture Rent A Car
 
-Onion Architecture kullanarak bağımlılıkların içten dışa aktığı, test edilebilir ve genişletilebilir bir araç kiralama sistemi. CQRS Pattern ile Command-Query ayrımı yapılarak optimize edilmiş .NET API endpoint'leri içermektedir.
+A car rental system built with Onion Architecture where dependencies flow from inside out, ensuring testability and extensibility. Features optimized .NET API endpoints with CQRS Pattern implementing Command-Query separation.
 
-**Teknolojiler:** .NET Core, ASP.NET Core Web API, Entity Framework Core, MediatR, AutoMapper, FluentValidation, CQRS
+**Technologies:** .NET Core, ASP.NET Core Web API, Entity Framework Core, MediatR, AutoMapper, FluentValidation, CQRS
 
-**Özellikler:**
-- RESTful prensiplere uygun resource-based URL yapısı
-- MediatR ile mediator pattern implementasyonu
-- SOLID prensipleri ile yüksek kaliteli kod yapısı
+**Features:**
+- Resource-based URL structure following RESTful principles
+- Mediator pattern implementation with MediatR
+- High-quality code structure with SOLID principles
 
-🔗 [GitHub](https://github.com/beko10/OnionArchitectureRentACarBook)
+🔗 [GitHub](https://github.com/MrBekoX/OnionArchitectureRentACarBook)
 
 ---
 
 ### 5. MrBekoXBlogAppServer
 
-Modern bir blog uygulamasının backend servisi. Clean Architecture prensiplerine uygun katmanlı yapıda geliştirilmiş, JWT tabanlı kimlik doğrulama ve rol bazlı erişim kontrolü içeren kapsamlı bir API.
+A modern blog application backend service. Developed in a layered structure following Clean Architecture principles, featuring JWT-based authentication and role-based access control.
 
-**Teknolojiler:** ASP.NET Core, Entity Framework Core, JWT, PostgreSQL, Swagger, Clean Architecture
+**Technologies:** ASP.NET Core, Entity Framework Core, JWT, PostgreSQL, Swagger, Clean Architecture
 
-🔗 [GitHub](https://github.com/beko10/MrBekoXBlogAppServer)
+🔗 [GitHub](https://github.com/MrBekoX/MrBekoXBlogAppServer)
 
 ---
 
 ### 6. BasicCalculatorAiAgentApp
 
-Google Gemini SDK ve Function Calling kullanılarak geliştirilmiş yapay zeka destekli hesaplama agent'ı. Doğal dil işleme yetenekleri ile geleneksel hesaplama uygulamalarının ötesine geçen akıllı özellikler sunmaktadır.
+An AI-powered calculation agent developed using Google Gemini SDK and Function Calling. Offers intelligent features beyond traditional calculator applications with natural language processing capabilities.
 
-**Teknolojiler:** Python, Google Gemini SDK, Function Calling, AI Agents
+**Technologies:** Python, Google Gemini SDK, Function Calling, AI Agents
 
-🔗 [GitHub](https://github.com/beko10/BasicCalculatorAiAgentApp)
+🔗 [GitHub](https://github.com/MrBekoX/BasicCalculatorAiAgentApp)
 
 ---
 
 ### 7. MCP Weather Applications
 
-Model Context Protocol (MCP) kullanarak geliştirilmiş hava durumu uygulamaları. Hem Python hem de .NET implementasyonları mevcut olup, AI entegrasyonu ve modern protokol kullanımını göstermektedir.
+Weather applications developed using Model Context Protocol (MCP). Available in both Python and .NET implementations, demonstrating AI integration and modern protocol usage.
 
-**Teknolojiler:** Python, C#, .NET, MCP, Claude Integration
+**Technologies:** Python, C#, .NET, MCP, Claude Integration
 
-🔗 [Python Version](https://github.com/beko10/BasicMCPWeatherApp) | [.NET Version](https://github.com/beko10/DotNetBasicMCPApp)
-
----
-
-### 8. Deep Learning ile Ses Sınıflandırma
-
-UrbanSound8K veri seti kullanarak 10 farklı kentsel sesi sınıflandıran derin öğrenme projesi. CNN ve LSTM modellerinin karşılaştırmalı performans analizi yapılmıştır.
-
-**Teknolojiler:** Python, Jupyter Notebook, Librosa, NumPy, Pandas, Matplotlib, Scikit-learn, CNN, LSTM
-
-**Özellikler:**
-- MFCC özellik çıkarımı
-- Accuracy, Precision, Recall ve F1-score metrikleri ile optimizasyon
-
-🔗 [GitHub](https://github.com/beko10)
+🔗 [Python Version](https://github.com/MrBekoX/BasicMCPWeatherApp) | [.NET Version](https://github.com/MrBekoX/DotNetBasicMCPApp)
 
 ---
 
-## 📊 GitHub İstatistiklerim
+### 8. Deep Learning Audio Classification
+
+A deep learning project classifying 10 different urban sounds using the UrbanSound8K dataset. Includes comparative performance analysis of CNN and LSTM models.
+
+**Technologies:** Python, Jupyter Notebook, Librosa, NumPy, Pandas, Matplotlib, Scikit-learn, CNN, LSTM
+
+**Features:**
+- MFCC feature extraction
+- Optimization with Accuracy, Precision, Recall, and F1-score metrics
+
+🔗 [GitHub](https://github.com/MrBekoX/DeepLearningAudioProcessing)
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=beko10&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MrBekoX&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beko10&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBekoX&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=beko10&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrBekoX&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=beko10&color=blueviolet&style=flat-square)
-![Followers](https://img.shields.io/github/followers/beko10?color=blue&style=flat-square)
-![Stars](https://img.shields.io/github/stars/beko10?color=yellow&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=MrBekoX&color=blueviolet&style=flat-square)
 
 </div>
 
 ---
 
-## 🎯 Proje Kategorileri
+## 🎯 Project Categories
 
-### 🏗️ Backend ve API Geliştirme
+### 🏗️ Backend & API Development
 
-Güçlü ve ölçeklenebilir backend sistemleri tasarlıyorum. Clean Architecture, Onion Architecture, CQRS pattern'leri ve mikroservis mimarisi kullanarak kurumsal düzeyde çözümler sunuyorum.
+I design robust and scalable backend systems. I provide enterprise-level solutions using Clean Architecture, Onion Architecture, CQRS patterns, and microservices architecture.
 
-| Proje | Açıklama | Teknoloji |
-|-------|----------|-----------|
-| [LearnX.Microservices](https://github.com/beko10/LearnX.Microservices) | Mikroservis mimarisi ile eğitim platformu | .NET, Docker, RabbitMQ |
-| [AuthTokenServer](https://github.com/beko10/AuthTokenServer) | JWT Authentication Server | .NET 7.0, Identity, JWT |
-| [MrBekoXBlogAppServer](https://github.com/beko10/MrBekoXBlogAppServer) | Blog API - Clean Architecture | ASP.NET Core, PostgreSQL |
-| [OnionArchitectureRentACarBook](https://github.com/beko10/OnionArchitectureRentACarBook) | Araç kiralama - Onion Architecture | .NET, CQRS, MediatR |
-| [CourseApp](https://github.com/beko10/CourseApp) | Kurs yönetim API | ASP.NET Core, EF Core |
-| [ElectronicDeviceManager](https://github.com/beko10/ElectronicDeviceManager) | E-Ticaret simülasyon | .NET, N-Tier, Unit of Work |
+| Project | Description | Technology |
+|---------|-------------|------------|
+| [LearnX.Microservices](https://github.com/MrBekoX/LearnX.Microservices) | Learning platform with microservices | .NET, Docker, RabbitMQ |
+| [AuthTokenServer](https://github.com/MrBekoX/AuthTokenServer) | JWT Authentication Server | .NET 7.0, Identity, JWT |
+| [MrBekoXBlogAppServer](https://github.com/MrBekoX/MrBekoXBlogAppServer) | Blog API - Clean Architecture | ASP.NET Core, PostgreSQL |
+| [OnionArchitectureRentACarBook](https://github.com/MrBekoX/OnionArchitectureRentACarBook) | Car Rental - Onion Architecture | .NET, CQRS, MediatR |
+| [CourseApp](https://github.com/MrBekoX/CourseApp) | Course Management API | ASP.NET Core, EF Core |
+| [ElectronicDeviceManager](https://github.com/MrBekoX/ElectronicDeviceManager) | E-Commerce Simulation | .NET, N-Tier, Unit of Work |
 
-### 🤖 Yapay Zeka ve AI Agent Geliştirme
+### 🤖 AI & Agent Development
 
-Model Context Protocol (MCP), Google AI SDK ve Function Calling kullanarak AI agent projeleri geliştiriyorum. LLM entegrasyonu ve prompt engineering konularında çalışmalar yapıyorum.
+I develop AI agent projects using Model Context Protocol (MCP), Google AI SDK, and Function Calling. I work on LLM integration and prompt engineering.
 
-| Proje | Açıklama | Teknoloji |
-|-------|----------|-----------|
-| [BasicCalculatorAiAgentApp](https://github.com/beko10/BasicCalculatorAiAgentApp) | AI destekli hesaplama agent'ı | Python, Gemini SDK |
-| [WeatherAppAiAgent](https://github.com/beko10/WeatherAppAiAgent) | AI hava durumu agent'ı | Python, Function Calling |
-| [BasicMCPWeatherApp](https://github.com/beko10/BasicMCPWeatherApp) | MCP implementasyonu (Python) | Python, MCP |
-| [DotNetBasicMCPApp](https://github.com/beko10/DotNetBasicMCPApp) | MCP implementasyonu (.NET) | C#, .NET, MCP |
+| Project | Description | Technology |
+|---------|-------------|------------|
+| [BasicCalculatorAiAgentApp](https://github.com/MrBekoX/BasicCalculatorAiAgentApp) | AI-powered calculation agent | Python, Gemini SDK |
+| [WeatherAppAiAgent](https://github.com/MrBekoX/WeatherAppAiAgent) | AI weather agent | Python, Function Calling |
+| [BasicMCPWeatherApp](https://github.com/MrBekoX/BasicMCPWeatherApp) | MCP implementation (Python) | Python, MCP |
+| [DotNetBasicMCPApp](https://github.com/MrBekoX/DotNetBasicMCPApp) | MCP implementation (.NET) | C#, .NET, MCP |
 
-### 🌐 Full-Stack Web Geliştirme
+### 🌐 Full-Stack Web Development
 
-Modern web teknolojileri kullanarak frontend ve backend entegrasyonu sağlayan projeler geliştiriyorum.
+I develop projects that integrate frontend and backend using modern web technologies.
 
-| Proje | Açıklama | Teknoloji |
-|-------|----------|-----------|
-| [DEALFLOW-PLATFORM](https://github.com/beko10/DEALFLOW-PLATFORM) | Deal flow yönetim platformu | TypeScript, React, Node.js |
-| [SignalR Project](https://github.com/beko10) | Real-time restoran yönetimi | .NET, SignalR, WebSocket |
+| Project | Description | Technology |
+|---------|-------------|------------|
+| [DEALFLOW-PLATFORM](https://github.com/MrBekoX/DEALFLOW-PLATFORM) | Deal flow management platform | TypeScript, React, Node.js |
+| [SignalRProject](https://github.com/MrBekoX/SignalRProject) | Real-time restaurant management | .NET, SignalR, WebSocket |
 
-### 📚 Eğitim Materyalleri
+### 📚 Educational Materials
 
-Topluluk eğitimleri ve atölye çalışmaları için hazırladığım kapsamlı materyaller. Python, C#, Veri Bilimi ve SQL konularında detaylı eğitim içerikleri sunuyorum.
+Comprehensive materials I've prepared for community training and workshops. I provide detailed educational content on Python, C#, Data Science, and SQL.
 
-| Proje | Açıklama | Teknoloji | ⭐ |
-|-------|----------|-----------|-----|
-| [VeriBilimineGirisAtolye](https://github.com/beko10/VeriBilimineGirisAtolye) | Veri bilimi ve ML atölye çalışması | Jupyter Notebook, Python | 14 |
-| [CSharpAtolye](https://github.com/beko10/CSharpAtolye) | C# programlama atölye materyalleri | C#, .NET | 5 |
-| [HackathonV2Csharp](https://github.com/beko10/HackathonV2Csharp) | Hackathon C# challenge'ları | C# | 4 |
-| [Python101CanliKodlama](https://github.com/beko10/Python101CanliKodlama) | Python canlı kodlama eğitimi | Python | - |
-| [9EylulUniOpenCVLab](https://github.com/beko10/9EylulUniOpenCVLab) | OpenCV görüntü işleme lab | Python, OpenCV | - |
+| Project | Description | Technology | ⭐ |
+|---------|-------------|------------|-----|
+| [VeriBilimineGirisAtolye](https://github.com/MrBekoX/VeriBilimineGirisAtolye) | Data Science & ML workshop | Jupyter Notebook, Python | 14 |
+| [CSharpAtolye](https://github.com/MrBekoX/CSharpAtolye) | C# programming workshop materials | C#, .NET | 5 |
+| [HackathonV2Csharp](https://github.com/MrBekoX/HackathonV2Csharp) | Hackathon C# challenges | C# | 4 |
+| [Python101CanliKodlama](https://github.com/MrBekoX/Python101CanliKodlama) | Python live coding training | Python | - |
+| [9EylulUniOpenCVLab](https://github.com/MrBekoX/9EylulUniOpenCVLab) | OpenCV image processing lab | Python, OpenCV | - |
 
 ---
 
-## 📈 Aktivite Grafiği
+## 📈 Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=beko10&theme=rogue&hide_border=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrBekoX&theme=rogue&hide_border=true" alt="Activity Graph" />
 
 </div>
 
 ---
 
-## 📊 GitHub Trophy
+## 🏆 GitHub Trophy
 
 <div align="center">
 
-[![trophy](https://github-trophy-vercel.app/?username=beko10&theme=radical&no-frame=true&row=1)](https://github.com/ryo-ma/github-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MrBekoX&theme=radical&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 🎯 Şu An Üzerinde Çalıştıklarım
+## 🎯 Currently Working On
 
 ```
-🔭 Mikroservis mimarisi ve distributed systems
-🤖 AI Agent development - MCP ve Function Calling
-📚 Event-driven architecture ve message queues
-🐳 Container orchestration ve DevOps pratikleri
+🔭 Microservices architecture and distributed systems
+🤖 AI Agent development - MCP and Function Calling
+📚 Event-driven architecture and message queues
+🐳 Container orchestration and DevOps practices
 ```
 
 ---
 
-## 💡 Ek Bilgi
+## 💡 Additional Info
 
-Yazılım geliştirmenin yanı sıra, Techcareer'de 100+ katılımcıya C#, .NET, Python ve SQL konularında teknik mentorluk ve eğitmenlik deneyimim bulunmaktadır. Bu deneyim, dokümantasyon yazma, kod review ve karmaşık teknik kavramları açık bir şekilde aktarma becerilerimi güçlendirmiştir.
+In addition to software development, I have technical mentoring and training experience with 100+ participants in C#, .NET, Python, and SQL at Techcareer. This experience has strengthened my documentation writing, code review, and ability to communicate complex technical concepts clearly.
 
 ---
 
-## 📫 İletişim
+## 📫 Contact
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/berkay-k-133b35245)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beko10)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkay-kaplan-133b35245/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrBekoX)
 
 </div>
 
@@ -336,14 +334,14 @@ Yazılım geliştirmenin yanı sıra, Techcareer'de 100+ katılımcıya C#, .NET
 
 <div align="center">
 
-### Teşekkürler! 🙏
+### Thank You! 🙏
 
-Bu profile göz attığınız için teşekkür ederim. Projelerimi beğendiyseniz, bir ⭐ vererek destekleyebilirsiniz.
+Thank you for visiting my profile. If you like my projects, you can support by giving a ⭐.
 
-**Yazılım geliştirme yolculuğumda birlikte yürüyelim!**
+**Let's walk together on the software development journey!**
 
 ---
 
-<i>Son güncelleme: Aralık 2025</i>
+<i>Last updated: December 2025</i>
 
 </div>
