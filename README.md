@@ -70,15 +70,28 @@ I have 4+ years of experience in .NET and C# development. I build scalable and s
 
 </div>
 
-### Architecture & Design Patterns
+### 🧱 Architecture & Design Patterns
 
 <div align="center">
 
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-6DB33F?style=for-the-badge)
+![N-Tier Architecture](https://img.shields.io/badge/N--Tier%20Architecture-2C3E50?style=for-the-badge)
 ![Onion Architecture](https://img.shields.io/badge/Onion%20Architecture-FF6F00?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-6DB33F?style=for-the-badge)
+
 ![CQRS](https://img.shields.io/badge/CQRS-9C27B0?style=for-the-badge)
-![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-2196F3?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC-0D47A1?style=for-the-badge)
+![MVT](https://img.shields.io/badge/MVT-1565C0?style=for-the-badge)
+
 ![SOLID](https://img.shields.io/badge/SOLID-4CAF50?style=for-the-badge)
+![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-2196F3?style=for-the-badge)
+![Unit of Work](https://img.shields.io/badge/Unit%20of%20Work-3F51B5?style=for-the-badge)
+
+![Dependency Injection](https://img.shields.io/badge/Dependency%20Injection-607D8B?style=for-the-badge)
+![Result Pattern](https://img.shields.io/badge/Result%20Pattern-795548?style=for-the-badge)
+![Strategy Pattern](https://img.shields.io/badge/Strategy%20Pattern-8E24AA?style=for-the-badge)
+
+</div>
+
 
 </div>
 
