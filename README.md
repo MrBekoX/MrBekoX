@@ -137,16 +137,6 @@ I care deeply about **code quality, maintainability, and long-term scalability**
 
 </div>
 
-### Cloud & Infrastructure
-
-<div align="center">
-
-![AWS](https://img.shields.io/badge/AWS%20EC2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
 ### API Development & Integration
 
 <div align="center">
@@ -168,17 +158,21 @@ I care deeply about **code quality, maintainability, and long-term scalability**
 
 </div>
 
-### DevOps & Development Tools
+### DevOps, Cloud & Development Tools
 
 <div align="center">
+
+![AWS](https://img.shields.io/badge/AWS%20EC2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
 ![Antigravity](https://img.shields.io/badge/Antigravity-FF6B6B?style=for-the-badge)
-
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
 
