@@ -30,7 +30,7 @@ I care deeply about **code quality, maintainability, and long-term scalability**
 
 ----
 
-
+---
 
 ## Technologies & Skills
 
@@ -47,15 +47,47 @@ I care deeply about **code quality, maintainability, and long-term scalability**
 
 </div>
 
-### Backend Technologies (.NET)
+### .NET Technologies & Ecosystem
 
 <div align="center">
 
 ![.NET](https://img.shields.io/badge/.NET%207/8/9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core%20Web%20API-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Minimal API](https://img.shields.io/badge/Minimal%20API-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![MediatR](https://img.shields.io/badge/MediatR-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+
+![AutoMapper](https://img.shields.io/badge/AutoMapper-BE161D?style=for-the-badge)
+![FluentValidation](https://img.shields.io/badge/FluentValidation-2C3E50?style=for-the-badge)
+![Microsoft Identity](https://img.shields.io/badge/Microsoft%20Identity-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![BCrypt](https://img.shields.io/badge/BCrypt.Net-4A154B?style=for-the-badge)
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+
+</div>
+
+### Caching & Performance
+
+<div align="center">
+
+![In-Memory Cache](https://img.shields.io/badge/In--Memory%20Cache-FF6B6B?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Rate Limiting](https://img.shields.io/badge/ASP.NET%20Rate%20Limiting-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+
+</div>
+
+### Frontend Technologies
+
+<div align="center">
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </div>
 
@@ -69,24 +101,17 @@ I care deeply about **code quality, maintainability, and long-term scalability**
 
 </div>
 
-### Frontend Technologies
-
-<div align="center">
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-</div>
-
-### Database Technologies
+### Database Technologies & ORM
 
 <div align="center">
 
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL%2016-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
@@ -112,20 +137,50 @@ I care deeply about **code quality, maintainability, and long-term scalability**
 
 </div>
 
+### Cloud & Infrastructure
+
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS%20EC2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
-### DevOps & Tools
+### API Development & Integration
+
+<div align="center">
+
+![RESTful API](https://img.shields.io/badge/RESTful%20API-009688?style=for-the-badge)
+![HTTP Protocol](https://img.shields.io/badge/HTTP%20Protocol-005C97?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![CORS](https://img.shields.io/badge/CORS-FF6B6B?style=for-the-badge)
+
+</div>
+
+### Observability & Logging
+
+<div align="center">
+
+![Serilog](https://img.shields.io/badge/Serilog-1E88E5?style=for-the-badge)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+
+</div>
+
+### DevOps & Development Tools
 
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
+![Antigravity](https://img.shields.io/badge/Antigravity-FF6B6B?style=for-the-badge)
+
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
 
 </div>
 
@@ -133,13 +188,33 @@ I care deeply about **code quality, maintainability, and long-term scalability**
 
 <div align="center">
 
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-FF6F00?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-FF6F00?style=for-the-badge)
+![Google AI](https://img.shields.io/badge/Google%20AI%20SDK-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agent%20Development-FF6F00?style=for-the-badge)
+
+![LLM](https://img.shields.io/badge/LLM%20Integration-9C27B0?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8E24AA?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge)
+![CNN](https://img.shields.io/badge/CNN-FF6B6B?style=for-the-badge)
+![LSTM](https://img.shields.io/badge/LSTM-FF6B6B?style=for-the-badge)
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
+
+### IoT & Embedded Systems
+
+<div align="center">
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT%20Projects-00C4CC?style=for-the-badge)
+
+</div>
+
+---
 
 ---
 
