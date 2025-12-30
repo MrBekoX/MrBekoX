@@ -16,6 +16,22 @@ I care deeply about **code quality, maintainability, and long-term scalability**
 
 ---
 
+
+## 📫 Contact
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-mrbekox.dev-9745F5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mrbekox.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkay-kaplan-133b35245/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrBekoX)
+
+</div>
+
+
+----
+
+
+
 ## Technologies & Skills
 
 ### Programming Languages
@@ -315,18 +331,6 @@ Comprehensive materials I've prepared for community training and workshops. I pr
 ## 💡 Additional Info
 
 In addition to software development, I have technical mentoring and training experience with 100+ participants in C#, .NET, Python, and SQL at Techcareer. This experience has strengthened my documentation writing, code review, and ability to communicate complex technical concepts clearly.
-
----
-
-## 📫 Contact
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-mrbekox.dev-9745F5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mrbekox.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkay-kaplan-133b35245/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrBekoX)
-
-</div>
 
 ---
 
