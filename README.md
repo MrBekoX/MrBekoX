@@ -322,6 +322,7 @@ In addition to software development, I have technical mentoring and training exp
 
 <div align="center">
 
+[![Website](https://img.shields.io/badge/Website-mrbekox.dev-9745F5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mrbekox.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkay-kaplan-133b35245/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrBekoX)
 
