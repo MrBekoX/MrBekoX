@@ -16,7 +16,6 @@ I care deeply about **code quality, maintainability, and long-term scalability**
 
 ---
 
-
 ## 📫 Contact
 
 <div align="center">
@@ -26,9 +25,6 @@ I care deeply about **code quality, maintainability, and long-term scalability**
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrBekoX)
 
 </div>
-
-
-----
 
 ---
 
@@ -207,8 +203,6 @@ I care deeply about **code quality, maintainability, and long-term scalability**
 ![IoT](https://img.shields.io/badge/IoT%20Projects-00C4CC?style=for-the-badge)
 
 </div>
-
----
 
 ---
 
