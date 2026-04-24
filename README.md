@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a backend-focused software developer with 4+ years of experience in .NET and C#, building scalable and secure systems.
+I'm a backend-focused software developer with 2+ years of experience in .NET and C#, building scalable and secure systems.
 My work centers on **Clean Architecture**, **Onion Architecture**, and **CQRS**, using **ASP.NET Core Web API** and **Entity Framework Core** across **.NET 7/8/9/10** projects.
 I've developed **real-time systems with SignalR**, **full-stack applications with Next.js and Angular**, and **AI agent–driven solutions** using **MCP**, **RAG**, and the **Google AI SDK**.
 I care deeply about **code quality, maintainability, and long-term scalability**, applying **SOLID principles** and clean design practices in every project.
